@@ -1,0 +1,5 @@
+name: Multiverse-Fixed-Term-Reset
+version: '${version}'
+main: moe.nmkmn.multiversefixedtermreset.Multiverse_Fixed_Term_Reset
+api-version: '1.20'
+softdepend: ['Multiverse-Core']
